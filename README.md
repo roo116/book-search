@@ -1,3 +1,16 @@
+TODO
+you’ll need to refactor the API to use GraphQL on the back end and add some functionality to the front end
+
+auth.js: Update the auth middleware function to work with the GraphQL API.
+
+server.js: Implement the Apollo Server and apply it to the Express server as middleware.
+
+To implement Apollo Server 2 as demonstrated in the activities, you MUST use the following script npm install apollo-server-express@2.15.0 to install Apollo Server 2.
+
+https://courses.bootcampspot.com/courses/1381/assignments/26498?module_item_id=529493
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
