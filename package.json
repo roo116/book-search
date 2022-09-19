@@ -1,5 +1,5 @@
 {
-  "hompage":"https://roo116.github.io/book-search",
+  "hompage": "https://roo116.github.io/book-search",
   "name": "googlebooks-app",
   "version": "1.0.0",
   "description": "",
@@ -16,5 +16,8 @@
   "devDependencies": {
     "concurrently": "^5.1.0",
     "gh-pages": "^4.0.0"
+  },
+  "dependencies": {
+    "apollo-server-express": "^2.15.0"
   }
 }
